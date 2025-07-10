@@ -4,7 +4,8 @@ Ticket-Nummer / Talep-Numarası: VT-20250710-001
 Datum/Tarih: 10.07.2025
 Uhrzeit/Saat: 21:50
 
-Benutzer / Kullanıcı: Kübra Ece Abteilung / Departman: Vertrieb/ Satış
+Benutzer / Kullanıcı: Kübra Ece
+Abteilung / Departman: Vertrieb/ Satış
 Gerät / Cihaz: HP ProDesk 600 G5
 Inventarnummer / Envanter Numarası: PC-1027
 
