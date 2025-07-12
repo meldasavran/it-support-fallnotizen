@@ -4,7 +4,7 @@
 **Datum / Tarih:** 12.07.2025  
 **Uhrzeit / Saat:** 15:30  
 
-**Benutzer / Kullanıcı:**Meryem Kara
+**Benutzer / Kullanıcı:** Meryem Kara  
 **Abteilung / Departman:** Einkauf / Satın Alma  
 **Gerät / Cihaz:** Dell Optiplex 5070  
 **Inventarnummer / Envanter Numarası:** PC-1072  
