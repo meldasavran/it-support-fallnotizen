@@ -40,7 +40,7 @@
 
 ---
 
-##Benutzerinformation / Kullanıcı Bilgilendirme
+## Benutzerinformation / Kullanıcı Bilgilendirme
 
 **DE:** Benutzer wurde informiert und war einverstanden.  
 **TR:** Kullanıcı bilgilendirildi ve onay verdi.
