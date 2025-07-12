@@ -21,15 +21,15 @@
 
 **DE:**  
 - Tastatur gereinigt  
-- An anderem USB-Port getestet → Problem blieb  
-- An anderem PC getestet → gleicher Fehler  
-- Neue Tastatur angeschlossen → funktioniert  
+- An anderem USB-Port getestet ... Problem blieb  
+- An anderem PC getestet ... gleicher Fehler  
+- Neue Tastatur angeschlossen ... funktioniert  
 
 **TR:**  
 - Klavye temizlendi  
-- Başka USB portunda denendi → sorun devam etti  
-- Başka bilgisayarda denendi → aynı sorun  
-- Yeni klavye takıldı → çalıştı  
+- Başka USB portunda denendi ... sorun devam etti  
+- Başka bilgisayarda denendi ... aynı sorun  
+- Yeni klavye takıldı ... çalıştı  
 
 ---
 
