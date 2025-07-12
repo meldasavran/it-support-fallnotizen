@@ -1,4 +1,4 @@
-# 📄 IT Support Fallnotiz / Destek Senaryo Kaydı – 08.07.2025
+#  IT Support Fallnotiz / Destek Senaryo Kaydı – 08.07.2025
 
 **Ticket-Nummer / Talep Numarası:** VT-20250708-001  
 **Datum / Tarih:** 08.07.2025  
